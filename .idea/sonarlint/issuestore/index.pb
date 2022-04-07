@@ -1,0 +1,7 @@
+
+9
+	Exam1.iml,d\8\d890de60e532336d14490becde166befbab97369
+8
+text.txt,c\8\c850b9c8461fa0cd791020e0135de2b8bfb50481
+9
+	text2.txt,7\a\7ad13868f75e26f5d6d2d7a1b8f838ecb6f36a7d
